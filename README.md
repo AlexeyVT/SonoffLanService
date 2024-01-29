@@ -5,4 +5,4 @@ supports:
 - http post for change device state
 - mdns listener for listen device callbacks in LAN network
 
-tested on Sonoff BASIC R2 v3.5.1
+tested on Sonoff BASIC R2 v3.5.1, v3.7.6
